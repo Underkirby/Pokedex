@@ -1,2 +1,2 @@
-# miniature-octo-goggles
+#An Online Pokedex
 The Online Pokedex
